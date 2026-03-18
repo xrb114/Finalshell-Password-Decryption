@@ -1,5 +1,8 @@
 一个解密finalshell保存的密码的网页工具
 finalshell 4.5.12版本实测有效
+
+测试请访问demo : [demo](https://finalshell.bytegeek.icu/)
+
 用法：
 
 打开finalshell 选中想要导出的服务器 右键导出
