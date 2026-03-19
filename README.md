@@ -9,4 +9,4 @@ finalshell 4.5.12版本实测有效
 
 粘贴`password`内容到输入框，完事
 ![1773846821109](images/README/1773846821109.png)
-![alt text](images\README\image.png)
+![1773884856395](images/README/1773884856395.png)
